@@ -1,6 +1,6 @@
-# Allium Docs
+# Bouquet Docs
 
-The place where the documentation for Allium happens. Built using Vitepress.
+The place where the documentation for Bouquet happens. Built using Vitepress.
 
 ## Develop
 
